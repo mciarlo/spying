@@ -1,0 +1,189 @@
+#pupil,
+#iris,
+#laptop img,
+#scroll-arrow img,
+#single-person img,
+#request-dot,
+#request-dot-pulse,
+#request-abuse-line,
+#spying-targets li img,
+#lock img,
+#stars img {
+	display: none;
+}
+
+#laptop {
+	width: 284px;
+	height :150px;
+	background: transparent url(../images/laptop.png) top center no-repeat;
+}
+
+#scroll-arrow {
+	width: 26px;
+    height: 15px;
+	background: transparent url(../images/scroll_arrow.png) top center no-repeat;
+}
+
+#single-person {
+    width: 42px !important;
+    height: 120px !important;
+	background: transparent url(../images/person.png) top center no-repeat;
+    margin-left: -21px !important;
+}
+
+#people {
+	background: transparent url(../images/people.png) top center repeat-x;
+   	height: 167px;
+}
+
+#spying-target-01,
+#spying-target-02,
+#spying-target-03,
+#spying-target-04,
+#spying-target-05,
+#spying-target-06,
+#spying-target-07,
+#spying-target-08,
+#spying-target-09,
+#spying-target-10,
+#spying-target-11,
+#spying-target-12,
+#spying-target-13,
+#spying-target-14,
+#spying-target-15,
+#spying-target-16,
+#spying-target-17,
+#spying-target-18 {
+	width: 40px;
+	height: 40px;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+#spying-target-01 {
+	background-image: url(../images/search_icon.png);
+}
+
+#spying-target-02 {
+	background-image: url(../images/mail_icon.png);
+}
+
+#spying-target-03 {
+	background-image: url(../images/fb_icon.png);
+}
+
+#spying-target-04 {
+	background-image: url(../images/search_icon.png);
+}
+
+#spying-target-05 {
+	background-image: url(../images/image_icon.png);
+}
+
+#spying-target-06 {
+	background-image: url(../images/chat_icon.png);
+}
+
+#spying-target-07 {
+	background-image: url(../images/mail_icon.png);
+}
+
+#spying-target-08 {
+	background-image: url(../images/tweet_icon.png);
+}
+
+#spying-target-09 {
+	background-image: url(../images/mail_icon.png);
+}
+
+#spying-target-10 {
+	background-image: url(../images/fb_icon.png);
+}
+
+#spying-target-11 {
+	background-image: url(../images/mail_icon.png);
+}
+
+#spying-target-12 {
+	background-image: url(../images/image_icon.png);
+}
+
+#spying-target-13 {
+	background-image: url(../images/chat_icon.png);
+}
+
+#spying-target-14 {
+	background-image: url(../images/video_icon.png);
+}
+
+#spying-target-15 {
+	background-image: url(../images/chat_icon.png);
+}
+
+#spying-target-16 {
+	background-image: url(../images/mail_icon.png);
+}
+
+#spying-target-17 {
+	background-image: url(../images/search_icon.png);
+}
+
+#spying-target-18 {
+	background-image: url(../images/image_icon.png);
+}
+
+#america {
+    width: 444px;
+    height: 277px;
+	background-image: url(../images/america.png);
+}
+
+#chains-01 {
+	top: 13%;
+}
+
+#chains-02 {
+	top: 25%;
+}
+
+#lock {
+	height: 248px;
+	width: 282px;
+	background: transparent url(../images/lock.png) top center no-repeat;
+}
+
+#chart {
+	height: 315px;
+	background: transparent url(../images/chart_bg.png) top center repeat-x;
+}
+
+#line {
+	width: 551px;
+	height: 218px;
+	background: transparent url(../images/chart_line.png) top left no-repeat;
+}
+
+#expanding .truth {
+	margin-top: -107px !important;
+}
+
+#stars {
+    width: 132px;
+    height: 32px;
+	background: transparent url(../images/stars.png) top center no-repeat;
+}
+
+#no-more-spying .star {
+	width: 38px;
+	height: 36px;
+	background: transparent url(../images/star.png) top center no-repeat;
+}
+
+#tweet-this {
+	padding-right: .3em;
+}
+
+#tweet-this .arrow {
+	top: .4em;
+   -ms-filter: "progid:DXImageTransform.Microsoft.Matrix(M11=0.7071067811865474, M12=-0.7071067811865477, M21=0.7071067811865477, M22=0.7071067811865474, SizingMethod='auto expand')";
+}
