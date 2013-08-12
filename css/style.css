@@ -44,7 +44,7 @@ table {
 
 html,
 body {
-	font-family: chaparral-pro, Georgia, serif;
+	font-family: chaparral-pro, Times New Roman, Times, serif;
 }
 
 #unsupported-browser {
@@ -669,7 +669,7 @@ body {
 	font-size: 2.6em;
 	font-style: normal;
 	text-transform: uppercase;
-	font-family: alternate-gothic-no-1-d;
+	font-family: alternate-gothic-no-1-d, League Gothic, Impact, sans-serif;
 }
 
 #no-more-spying h2 {
@@ -857,7 +857,7 @@ body {
     }
     
     #intro .truth h1 {
-    	width: 524px;
+    	width: 550px;
     }
 
     #intro h1,
